@@ -1,8 +1,8 @@
 ![me](https://i.pinimg.com/originals/88/15/63/881563d6444b370fa4ceea0c3183bb4c.gif)
 
-## Bienvidos y bienvenidas al github del bot: Protective Knight, un bot especializado en seguridad y Múltiples funciones.
+## Bienvenidos y bienvenidas al github del bot: Protective Knight, un bot especializado en seguridad y Múltiples funciones.
 
-![hola](https://i.pinimg.com/originals/d5/54/09/d554090aad9cd82e16d78252ed52d0d1.gif)
+![hola](https://cdn.vox-cdn.com/thumbor/wQzCl28UTjkGdKWyaqHR2T6Dn_g=/0x112:499x393/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/49582279/b3fb6136670749.5724cb60928bf.0.0.gif)
 
 ## Información
 
