@@ -2,7 +2,7 @@
 
 ## Bienvenidos y bienvenidas al github del bot: Protective Knight, un bot especializado en seguridad y Múltiples funciones.
 
-![hola](https://thumbs.gfycat.com/AbleTastyCirriped-size_restricted.gif)
+![me](https://thumbs.gfycat.com/AbleTastyCirriped-size_restricted.gif)
 
 ## Información
 
@@ -16,7 +16,7 @@
 
 🌵 Múestra un panel de ayúda.
 
-![xd](https://media.discordapp.net/attachments/649756523437752330/790386816356057088/2020-12-20_12.png?width=550&height=406)
+![me](https://media.discordapp.net/attachments/649756523437752330/790386816356057088/2020-12-20_12.png?width=550&height=406)
 
 ## p!comandos
 
