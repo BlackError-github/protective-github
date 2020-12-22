@@ -44,7 +44,7 @@
 
 ## p!votar
 
-🌻 Vota a favor del bot es totalmente gratis, así me darías apoyo y sabré qué te gusto el bot. [Vota] (https://top.gg/bot/735651578274513098/vote)
+🌻 Vota a favor del bot es totalmente gratis, así me darías apoyo y sabré qué te gusto el bot. [Vota](https://top.gg/bot/735651578274513098/vote)
 
 
 ![Vote](https://media.discordapp.net/attachments/649756523437752330/790386902887825449/2020-12-20_15.png?width=744&height=406)
