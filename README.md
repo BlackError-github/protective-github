@@ -1,4 +1,4 @@
-![me](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/da033e72-0c02-4f60-a051-5fbf5205e7e8/d2uol6y-bae4b4d4-c3ab-4758-ab55-a8d4952aa653.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvZGEwMzNlNzItMGMwMi00ZjYwLWEwNTEtNWZiZjUyMDVlN2U4XC9kMnVvbDZ5LWJhZTRiNGQ0LWMzYWItNDc1OC1hYjU1LWE4ZDQ5NTJhYTY1My5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.aiWDs1rNTsWVd4xfe4XefdxTCg6hX-dCM6HWNBJILbg)
+![me](https://i.pinimg.com/originals/88/15/63/881563d6444b370fa4ceea0c3183bb4c.gif)
 
 ## Bienvidos y bienvenidas al github del bot: Protective Knight, un bot especializado en seguridad y Múltiples funciones.
 
