@@ -2,7 +2,7 @@
 
 ## Bienvenidos y bienvenidas al github del bot: Protective Knight, un bot especializado en seguridad y Múltiples funciones.
 
-![hola](https://cdn.vox-cdn.com/thumbor/wQzCl28UTjkGdKWyaqHR2T6Dn_g=/0x112:499x393/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/49582279/b3fb6136670749.5724cb60928bf.0.0.gif)
+![hola](https://thumbs.gfycat.com/AbleTastyCirriped-size_restricted.gif)
 
 ## Información
 
